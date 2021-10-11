@@ -1,10 +1,30 @@
-# Angular TailwindCSS Boilerplate
+# Boilerplate and Starte for Angular 12 and TailwindCSS 2.0 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
-## Development server
+Clone this project and use it to create your own project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Requirements
+
+- Node.js
+- npm
+- Angular CLI
+
+### Getting started
+
+Run the following command on your local environment:
+
+```
+git clone --depth=1 https://github.com/ziracmo/angular-tailwindcss-boilerplate.git my-project-name
+cd my-project-name
+npm install
+```
+
+Then, you can run locally in development mode with live reload:
+
+```
+ng serve -o
+```
 
 ## Code scaffolding
 
