@@ -1,4 +1,4 @@
-# Boilerplate and Starte for Angular 12 and TailwindCSS 2.0 
+# Boilerplate and Starter for Angular 12 and TailwindCSS 2.0 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
